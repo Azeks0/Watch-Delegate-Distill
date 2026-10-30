@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+sam_out/
+*.mp4
+*.log
+.sam31_budget.json
+.env
